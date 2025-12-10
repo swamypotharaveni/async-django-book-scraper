@@ -153,8 +153,4 @@ project/
 * **Avoiding duplicates:** Checks existing book titles before inserting.
 * **Headers:** The scraper uses a User-Agent header to avoid basic blocks.
 
----
 
-## License
-
-This project is licensed under the MIT License.
