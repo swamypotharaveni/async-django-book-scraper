@@ -1,8 +1,6 @@
 from adrf.views import APIView
-from rest_framework.response import Response
 import asyncio
 import httpx
-from bs4 import BeautifulSoup
 from rest_framework.response import Response
 from bs4 import BeautifulSoup
 import httpx
